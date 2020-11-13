@@ -1,2 +1,3 @@
 # snake-game-cpp-code
-how to crate snake game in c++
+how to create snake game in c++
+
